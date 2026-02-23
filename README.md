@@ -1,1 +1,1 @@
-# Template-Hytale-ModPack
+# Template Hytale ModPack
